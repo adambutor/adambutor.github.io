@@ -6,19 +6,18 @@ hu: &DEFAULT_EN
 
   portfolio:
     title: "Galéria"
-    text: ""
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Bezárás"
 
   about:
     title: "A Vállalkozásról"
-    text: "our story"
     body: "Beépített egyedi bútorok, konyha, nappali, gyerekszoba, szekrénysorok stb. készítése. Anyagok, színek, formák nagy választékban. Ingyenes felmérés telefonos egyeztetés után."
     section: about
+    text: "Írjon emailt az adambutor@gmail.com címre, vagy hívjon a +36000000000 számon"
 
   contact:
     title: "Árajánlat kérése"
-    text: "Töltse ki az alábbi mezőket, vagy hívjon a +36000000000 számon."
+    text: "Töltse ki az alábbi mezőket, írjon emailt az adambutor@gmail.com címre, vagy hívjon a +36000000000 számon."
     section: contact
     name: "Név*"
     name-validation: "Kérem adja meg a nevét."

@@ -1,10 +1,8 @@
 hu: &DEFAULT_HU
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
-    - title: "About"
+    - title: "Rólunk"
       section: about
-    - title: "Contact"
+    - title: "Galéria"
+      section: portfolio
+    - title: "Árajánlat"
       section: contact
