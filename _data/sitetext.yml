@@ -28,7 +28,7 @@ hu: &DEFAULT_EN
     message: "Üzenet*"
     message-validation: "Kérem adja meg az üzenetét."
     subject: "Árajánlatkérés (weboldalról)"
-    submit: "Send Message"
+    submit: "Üzenet küldése"
 
   footer:
     legal: "Privacy Policy"
