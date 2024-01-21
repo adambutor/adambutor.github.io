@@ -1,7 +1,7 @@
 ---
-image: assets/img/galeria1.jpg
+image: assets/img/galeria6.jpg
 alt: 
 
 caption:
-  thumbnail: assets/img/galeria1.jpg
+  thumbnail: assets/img/galeria6.jpg
 ---
