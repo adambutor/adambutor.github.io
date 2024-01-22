@@ -1,6 +1,8 @@
 hu: &DEFAULT_EN
   header:
-    text: Ádám Ferenc Bútorasztalos +36/30-989-3523
+    text: |
+      Ádám Ferenc Bútorasztalos  
+      +36/30-989-3523
     button: Árajánlat kérése 
     buttonlink: "#contact"
 
